@@ -1,0 +1,29 @@
+portfolioitems:
+  # portfolio category
+  - title: Coding Projects
+    portfolioitem:
+      - name: Member Center Service
+        image: '/images/portfolio/code.jpg'
+        link: https://github.com/junminhong/member-center-service
+        description: '基於DDD架構開發的會員服務中心'
+        # tags:
+        #  - Tag 1
+        #  - Tag 2
+        status: 'maintain'
+        start: '2022'
+        end: '-'
+      - name: Thrurl
+        image: '/images/portfolio/code.jpg'
+        link: https://github.com/junminhong/thrurl
+        description: '一個簡單且易用的開源短網址服務'
+        status: 'developing'
+        start: '2022'
+        end: '-'
+      - name: Toot Clock
+        image: '/images/portfolio/code.jpg'
+        link: https://github.com/junminhong/toot-clock
+        description: '台鐵火車時刻表'
+        status: 'developing'
+        start: '2022'
+        end: '-'
+

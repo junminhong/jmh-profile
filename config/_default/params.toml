@@ -1,0 +1,25 @@
+title = "Atomic World"
+author = "洪鈞閔"
+description = """
+I'm Backend Engineer
+Love Share and Learn
+"""
+profilePicture = "images/profile.jpg"
+favicon = "favicons/"
+mainSections = ["post"]
+readMore = true
+
+[[socialIcons]]
+icon = "fab fa-github"
+title = "GitHub"
+url = "https://github.com/junminhong"
+
+[[socialIcons]]
+icon = "fab fa-linkedin"
+title = "Linkedin"
+url = "https://www.linkedin.com/in/junminhong/"
+
+[[socialIcons]]
+icon = "fas fa-envelope"
+title = "e-mail"
+url = "mailto:junminhong1110@gmail.com"

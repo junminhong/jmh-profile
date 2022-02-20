@@ -1,0 +1,18 @@
+baseURL = 'http://example.org/'
+languageCode = 'en-us'
+title = ''
+pygmentsCodeFences = true
+pygmentsUseClasses = true
+[module]
+# uncomment line below for temporary local development of module
+# replacements = "github.com/lxndrblz/anatole -> ../../anatole"
+[[module.imports]]
+path = "github.com/lxndrblz/anatole"
+disable = false
+
+[params.gitalk]
+clientID = "GitHub Application Client ID"
+clientSecret = "GitHub Application Client Secret"
+repo = "Repository name to store issues"
+owner = "GitHub repo owner"
+admin = "GitHub repo owner and collaborators, only these guys can initialize gitHub issues"
