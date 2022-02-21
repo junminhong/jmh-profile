@@ -2,8 +2,6 @@
 title: Golang旅程 - JWT
 description: 
 date: 2021-07-26
-Lastmod: 2021-07-26
-slug: learn-note/golang-jwt
 categories:
   - 學習筆記
 tags: 
