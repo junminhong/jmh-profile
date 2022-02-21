@@ -1,4 +1,4 @@
-baseURL = 'http://example.org/'
+baseURL = 'https://blog.jmh-su.com'
 languageCode = 'en-us'
 title = ''
 pygmentsCodeFences = true

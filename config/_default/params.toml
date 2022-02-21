@@ -4,10 +4,11 @@ description = """
 I'm Backend Engineer
 Love Share and Learn
 """
-profilePicture = "images/profile.jpg"
+profilePicture = "images/profile.jpeg"
 favicon = "favicons/"
 mainSections = ["post"]
 readMore = true
+contentratio = 0.7
 
 [[socialIcons]]
 icon = "fab fa-github"
