@@ -1,5 +1,5 @@
 ## 👋 Hey there！I'm junminhong
-一位致力於Golang開發的後端工程師。
+一位總是思考著如何能更好，且熱衷於探索新知、open source community的Golang後端工程師。
 ### ❤️ 喜歡的事
 - 學習
 - 分享
