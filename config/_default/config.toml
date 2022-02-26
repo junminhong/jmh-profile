@@ -1,8 +1,15 @@
 baseURL = 'https://blog.jmh-su.com'
 languageCode = 'en-us'
 title = ''
+enableRobotsTXT = true
 pygmentsCodeFences = true
 pygmentsUseClasses = true
+
+[sitemap]
+changefreq = "monthly"
+priority = 0.5
+filename = "sitemap.xml"
+
 [module]
 # uncomment line below for temporary local development of module
 # replacements = "github.com/lxndrblz/anatole -> ../../anatole"

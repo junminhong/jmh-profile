@@ -9,7 +9,7 @@ favicon = "favicons/"
 mainSections = ["post"]
 readMore = true
 contentratio = 0.7
-
+gtagId = "G-xxxxxx"
 [[socialIcons]]
 icon = "fab fa-github"
 title = "GitHub"
