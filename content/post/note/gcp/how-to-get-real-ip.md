@@ -23,7 +23,7 @@ tags:
 主要的問題點就是客戶端可以透過偽造request header中的X-Forwarded-For這個欄位來隱藏自己的真實IP。
 
 但是好消息的是，這個漏洞已經在v1.7.7中被修復了，[詳情可以看一下release](https://github.com/gin-gonic/gin/releases)。
-
+<!--more-->
 ## 那在Gin裡面要怎麼取得客戶端IP呢？
 很簡單，直接上原始碼。
 ```golang
